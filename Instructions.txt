@@ -1,0 +1,20 @@
+1. Go to https://github.com/naksbro/GitnUnixMentoring.git and clone repository
+
+2. Create local repo (TLANotes) on your desktop
+
+3. Create five (5) directories inside local repo
+	Java	SDLC	Technical Communications	Selenium	Unix
+
+4. Copy and Move powerpoints/files from cloned repo to the corresponding directories you created inside TLANotes
+
+5. Rename day4.pdf to "Variable recap.pdf"
+
+6. Inside each directory create one text file and list 3 things you know about that subject (try not to use your notes)
+
+7. Go back to cloned repo and take a screenshot of the status (should be up to date). Move screenshot to inside TLANotes
+
+8. Create a new repository on your github account 
+
+9. Push TLANotes local repo to github
+
+10. Send Me/Daniel links to your github repo
