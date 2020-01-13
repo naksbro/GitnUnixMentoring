@@ -13,7 +13,7 @@
 
 7. Go back to cloned repo and take a screenshot of the status (should be up to date). Move screenshot to inside TLANotes
 
-8. Create a new repository on your github account 
+8. Create a new repository on your github account with same name as local directory (TLANotes)
 
 9. Push TLANotes local repo to github
 
