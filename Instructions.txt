@@ -9,16 +9,12 @@
 
 5. Rename Day_3_Var_String_Input.pdf to "Variable String Input.pdf"
 
-6. Rename day4.pdf to "Variable recap.pdf"
+6. Inside each directory create one text file and list 3 things you know about that subject (try not to use your notes)
 
-7. Rename day5.pdf to "Specialized Assignment Operators Unary Operators.pdf"
+7. Go back to cloned repo and take a screenshot of the status (should be up to date). Move screenshot to inside TLANotes
 
-8. Inside each directory create one text file and list 3 things you know about that subject (try not to use your notes)
+8. Create a new repository on your github account 
 
-9. Go back to cloned repo and take a screenshot of the status (should be up to date). Move screenshot to inside TLANotes
+9. Push TLANotes local repo to github
 
-10. Create a new repository on your github account 
-
-11. Push TLANotes local repo to github
-
-12. Send Me/Daniel links to your github repo
+10. Send Me/Daniel links to your github repo
